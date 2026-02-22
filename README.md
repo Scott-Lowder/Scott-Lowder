@@ -6,8 +6,8 @@ I am a B.S. computer science major and finance minor senior passionate about bui
 ---
 
 ###  Professional Experience
-* **Avangrid (IT Corp Apps & Projects):** Developed frontend features in **TypeScript/React** and enhanced backend permissions in **C#**. I'm experienced in Agile environments, JIRA, and delivering production-ready code.
-* **INT PMO & Major Projects:** Managed stakeholder migrations to **Salesforce** and conducted User Acceptance Testing (UAT).
+* **Avangrid Summer Intern 2025 (IT Corp Apps & Projects):** Developed frontend features in **TypeScript/React** and enhanced backend permissions in **C#**. I'm experienced in Agile environments, JIRA, and delivering production-ready code.
+* **Avangrid Summer Intern 2024 (INT PMO & Major Projects):** Managed stakeholder migrations to **Salesforce** and conducted User Acceptance Testing (UAT).
 
 ---
 
