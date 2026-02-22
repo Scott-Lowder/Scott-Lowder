@@ -24,4 +24,4 @@ I am a B.S. computer science major and finance minor senior passionate about bui
 ### 🚣‍♂️ Beyond the Code
 When I'm not coding, you can find me on the Charles River her in Boston! I'm a member of the **Boston College Men’s Rowing Team** and serve as the team’s Webmaster and Safety Officer. I thrive in high-discipline, team-oriented environments.
 
-📫 **Let's Connect:** [LinkedIn]((https://www.linkedin.com/in/scott-j-lowder/))
+**Let's Connect:** [LinkedIn](https://www.linkedin.com/in/scott-j-lowder/)
