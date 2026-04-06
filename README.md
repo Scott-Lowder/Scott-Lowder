@@ -14,10 +14,10 @@ I am a B.S. Computer Science major and Finance minor (Class of 2026) passionate 
 ### Skills
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Python, JavaScript/TypeScript, Java, C#, C |
+| **Languages** | Python, Java, C#, C, JavaScript/TypeScript, HTML, CSS, SQL |
 | **Web & Frameworks** | React, HTML5 Canvas |
 | **AI & Data Science** | TensorFlow, PyTorch, scikit-learn, NumPy, Pandas |
-| **Tools** | Git, GitHub, JIRA, Agile/Scrum, HP ALM |
+| **Tools** | Git, GitHub, JIRA, Agile/Scrum |
 
 ---
 
