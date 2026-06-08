@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Scott Lowder
 
 ### Computer Science & Finance @ Boston College
-I am a B.S. Computer Science major and Finance minor (Class of 2026) passionate about building scalable applications and deriving insights from financial data. Currently, I'm a student-athlete (Rowing 🚣‍♂️) and an aspiring developer with experience in full-stack engineering and machine learning.
+I am a recent B.S. Computer Science major and Finance minor graduate (Class of 2026) passionate about building scalable applications and deriving insights from financial data. I was a student-athlete (Rowing 🚣‍♂️) and am an aspiring developer with experience in full-stack engineering and machine learning.
 
 ---
 
@@ -22,6 +22,6 @@ I am a B.S. Computer Science major and Finance minor (Class of 2026) passionate 
 ---
 
 ### 🚣‍♂️ Beyond the Code
-When I'm not coding, you can find me on the Charles River here in Boston! I'm a member of the **Boston College Men’s Rowing Team** and serve as the team’s Webmaster and Safety Officer. I thrive in high-discipline, team-oriented environments.
+When I'm not coding, you can find me on the Charles River in Boston or Housatonic River outside of New Haven! I was a member of the **Boston College Men’s Rowing Team** and served as the team’s Webmaster and Safety Officer. I thrive in high-discipline, team-oriented environments.
 
 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/scott-j-lowder/)
